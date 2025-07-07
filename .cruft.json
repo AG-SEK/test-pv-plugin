@@ -1,0 +1,29 @@
+{
+  "template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-pv-plugin",
+  "commit": "5ac9c0661bb27feba4dead22f49aacd16712f34e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Aaron Schüller-Ruhl",
+      "email": "aaron.schueller-ruhl@physik.uni-marburg.de",
+      "github_username": "AG-SEK",
+      "plugin_name": "test-pv-plugin",
+      "module_name": "perolab_umr",
+      "lab_name": "perolab",
+      "short_description": "short description",
+      "version": "0.1.0",
+      "license": "MIT",
+      "include_schema_package": true,
+      "include_normalizer": true,
+      "include_parser": true,
+      "include_app": true,
+      "include_example_uploads": true,
+      "_copy_without_render": [
+        "*.html"
+      ],
+      "_template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-pv-plugin",
+      "_commit": "5ac9c0661bb27feba4dead22f49aacd16712f34e"
+    }
+  },
+  "directory": null
+}
